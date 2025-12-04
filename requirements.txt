@@ -1,0 +1,11 @@
+# Visualisación de datos
+dash
+plotly
+
+# Exploración de datos
+pandas
+numpy
+
+# test
+pytest~=9.0.1
+pytest-cov~=7.0.0

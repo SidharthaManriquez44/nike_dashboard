@@ -1,0 +1,40 @@
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual enviroment
+venv/
+.env/
+.venv/
+.env
+
+# PyCharm
+.idea/
+*.iml
+
+# Pytest - Coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+
+# Wrappers
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Files local tests
+notebook/data/
+*.csv
+
+# VSCode
+.vscode/
