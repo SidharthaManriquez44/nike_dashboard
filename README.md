@@ -1,5 +1,8 @@
 # Nike KPI Dashboard (Plotly + Dash)
 
+[![Python Tests](https://github.com/SidharthaManriquez44/nike_dashboard/actions/workflows/python-test.yml/badge.svg)](https://github.com/SidharthaManriquez44/nike_dashboard/actions/workflows/python-test.yml)
+[![codecov](https://codecov.io/gh/SidharthaManriquez44/nike_dashboard/graph/badge.svg?token=P3KGBnRzgC)](https://codecov.io/gh/SidharthaManriquez44/nike_dashboard)
+
 Professional dashboard developed with Plotly + Dash for the interactive visualization of Nike's key KPIs.
 The project includes a modular architecture, simulated data, and components ready to be replaced with real-world data sources (CSV, database, or API).
 

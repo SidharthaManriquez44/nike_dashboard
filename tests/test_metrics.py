@@ -1,5 +1,5 @@
 import pandas as pd
-from src.dashboard import compute_overview_metrics
+from src.data_logic import compute_overview_metrics
 
 def test_compute_overview_metrics_keys():
     df = pd.DataFrame({
